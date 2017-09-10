@@ -18,4 +18,20 @@ layout: default
 
 **Tiffary Coons** Head RA
 
+**Matt Jeye**
+
+**Natacha Bielikoff**
+
+**Nicole Galli**
+
+**Yahya Ladiwala**
+
+**Zach Obstfeld**
+
 ### Research Team Alumni
+
+**Ryan Chiu**
+
+**Mika Reyes**
+
+**Kathy Yun**
