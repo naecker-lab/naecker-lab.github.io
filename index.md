@@ -26,8 +26,6 @@ layout: default
 
 **Yahya Ladiwala**
 
-**Zach Obstfeld**
-
 ### Research Team Alumni
 
 **Ryan Chiu**
