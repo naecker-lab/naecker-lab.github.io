@@ -2,13 +2,9 @@
 layout: default
 ---
 
-<div class="home">
+Please see the [lab Github](https://github.com/naecker-lab) for our current projects, as well as repository of [training materials](https://github.com/naecker-lab/lab-manual).
 
-  <p class="text">{{ site.description }}</p>
-
-</div>
-
-## People
+### Lab Director
 
 **Jeffrey Naecker** Assistant Professor
 
@@ -18,13 +14,13 @@ layout: default
 
 **Tiffary Coons** Head RA
 
-**Matt Jeye**
-
 **Natacha Bielikoff**
 
-**Nicole Galli**
-
 **Yahya Ladiwala**
+
+**Taylor Chin**
+
+**Kelly Jamrog**
 
 ### Research Team Alumni
 
@@ -33,3 +29,9 @@ layout: default
 **Mika Reyes**
 
 **Kathy Yun**
+
+**Matt Jeye**
+
+**Nicole Galli**
+
+**Jake Margolis**
