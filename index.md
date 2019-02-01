@@ -6,32 +6,38 @@ Please see the [lab Github](https://github.com/naecker-lab) for our current proj
 
 ### Lab Director
 
-**Jeffrey Naecker** Assistant Professor
+**Jeffrey Naecker**
 
 ### Current Research Team
 
-**Sarah Xu** Head RA
+**Eric Gooden** '19
 
-**Tiffary Coons** Head RA
+**Kelly Jamrog** '19
 
-**Natacha Bielikoff**
+**Shiv Khanna** '21
 
-**Yahya Ladiwala**
-
-**Taylor Chin**
-
-**Kelly Jamrog**
+**Qiyuan Zheng** '20
 
 ### Research Team Alumni
 
-**Ryan Chiu**
+**Natacha Bielikoff** '18
 
-**Mika Reyes**
+**Taylor Chin** '18
 
-**Kathy Yun**
+**Ryan Chiu** '18
 
-**Matt Jeye**
+**Tiffary Coons** '18
 
-**Nicole Galli**
+**Nicole Galli** '19
 
-**Jake Margolis**
+**Matt Jeye** '18
+
+**Yahya Ladiwala** '19
+
+**Jake Margolis** '19
+
+**Mika Reyes** '17
+
+**Sarah Xu** '18
+
+**Kathy Yun** '17
